@@ -29,7 +29,7 @@ h2 {
 .slogan {
     color: rgb(93, 238, 93);
     font-style: italic;
-    font-size: 1.2em;
+    font-size: 1.4em;
     margin-top: 5px;
 }
 
@@ -60,5 +60,5 @@ footer {
     margin-top: 30px;
     padding: 10px;
     font-size: 0.9em;
-    color: #e9fb27;
+    color: #de3e60;
 }
